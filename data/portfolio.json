@@ -1,0 +1,128 @@
+{
+  "name": "Sarthak Bhatt",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Sarthak Bhatt - a passionate",
+  "headerTaglineThree": "Full-Stack Developer",
+  "headerTaglineFour": "based in Dehradun, India.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/sarthakbhatt1407"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/sarthak-bhatt-694805235/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+      "id": "3",
+      "title": "Email",
+      "link": "mailto:sarthakbhatt1407@gmail.com"
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "1",
+      "title": "Rivaaz Films",
+      "description": "Music production, distribution, and promotion platform",
+      "imageSrc": "https://i.ibb.co/WvJxTY93/Rivaaz.png",
+      "url": "https://rivaazfilms.com/"
+    },
+    {
+      "id": "2",
+      "title": "Running Room Management System (RRMS)",
+      "description": "Optimized accommodation management for Indian Railways",
+      "imageSrc": "https://i.ibb.co/Q7P9mnv6/Screenshot-2025-03-26-at-5-19-42-PM.png",
+      "url": "https://play.google.com/store/apps/details?id=com.runningroomsnew"
+    },
+    {
+      "id": "3",
+      "title": "Onboard Housekeeping Services (OBHS)",
+      "description": "Feedback collection, attendance tracking, and inventory management",
+      "imageSrc": "https://i.ibb.co/1tWtdgxC/Screenshot-2025-03-26-at-5-19-54-PM.png",
+      "url": "https://play.google.com/store/apps/details?id=com.beatleOBHSFeedback"
+    },
+    {
+      "id": "4",
+      "title": "Passenger Amenity App",
+      "description": "Enhanced railway operations and passenger experience",
+      "imageSrc": "https://i.ibb.co/VYFjbqn0/Screenshot-2025-03-26-at-5-19-32-PM.png",
+      "url": "https://play.google.com/store/apps/details?id=com.beatleanalytics.passengeram"
+    },
+    {
+      "id": "5",
+      "title": "CEU Trainers",
+      "description": "A platform for professional training and certification programs",
+      "imageSrc": "https://i.ibb.co/0pWNwGBp/Screenshot-2025-03-26-at-5-20-12-PM.png",
+      "url": "https://ceu-trainers.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Front-End Development",
+      "description": "Creating responsive and interactive user interfaces using React.js, TailwindCSS, and modern front-end technologies."
+    },
+    {
+      "id": "2",
+      "title": "Back-End Development",
+      "description": "Designing and implementing scalable backend systems and APIs using Node.js, Express.js, and MongoDB."
+    },
+    {
+      "id": "3",
+      "title": "Application Development",
+      "description": "Developing efficient and user-friendly web and mobile applications tailored to meet business needs."
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Optimization",
+      "description": "Enhancing user experience with modern front-end technologies and performance optimization."
+    }
+  ],
+  "aboutpara": "Full-Stack Developer with 1+ years of experience in web and mobile app development. Skilled in React.js, React Native, Node.js, and MongoDB. Passionate about problem-solving and building efficient, user-friendly solutions at scale.",
+  "resume": {
+    "tagline": "👋 I'm a Full-Stack Developer passionate about scalable and efficient applications.",
+    "description": "Experienced in developing applications for Indian Railways and music platforms. Skilled in React, Node.js, and backend optimizations.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Aug 2024 – Present",
+        "type": "Full Time",
+        "position": "React Native Developer at Beatle Analytics",
+        "bullets": "Built and maintained RRMS (Running Room Management System) for Indian Railways, optimizing accommodation management for railway staff $$ Developed OBHS (Onboard Housekeeping Services) and Passenger Amenity apps for Indian Railways enabling feedback collection, attendance tracking, inventory management, train scorecards, and service monitoring, ensuring efficient railway operations and an enhanced passenger experience."
+      },
+      {
+        "id": "2",
+        "dates": "Jan 2024 – July 2024",
+        "type": "Full Time",
+        "position": "Full-Stack Developer at FusionAvinya Pvt. Ltd.",
+        "bullets": "Built Rivaaz Films a music production and distribution platform using the MERN stack."
+      }
+    ],
+    "education": {
+      "universityName": "Graphic Era University, Dehradun",
+      "universityDate": "July 2021 – July 2023",
+      "universityPara": "Master of Computer Applications (MCA) with a strong focus on web and mobile development."
+    },
+    "languages": ["JavaScript", "TypeScript", "Python", "Java"],
+    "frameworks": ["React.js", "React Native", "Node.js", "Express.js"],
+    "others": [
+      "Git",
+      "RESTful APIs",
+      "WebSockets",
+      "Nginx",
+      "PM2",
+      "VPS Deployment",
+      "Material UI",
+      "MUI X",
+      "TailwindCSS",
+      "Styled Components"
+    ]
+  }
+}
