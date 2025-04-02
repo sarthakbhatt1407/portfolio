@@ -35,6 +35,20 @@
       "url": "https://rivaazfilms.com/"
     },
     {
+      "id": "5",
+      "title": "CEU Trainers",
+      "description": "A platform for professional training and certification programs",
+      "imageSrc": "https://i.ibb.co/0pWNwGBp/Screenshot-2025-03-26-at-5-20-12-PM.png",
+      "url": "https://ceu-trainers.com/"
+    },
+    {
+      "id": "6",
+      "title": "Future Properties",
+      "description": "A real estate firm specializing in property sales, interior design, and construction services.",
+      "imageSrc": "https://i.ibb.co/xqvh9dKD/Screenshot-2025-04-02-at-2-17-22-PM.png",
+      "url": "https://futureproperties.org/"
+    },
+    {
       "id": "2",
       "title": "Running Room Management System (RRMS)",
       "description": "Optimized accommodation management for Indian Railways",
@@ -54,13 +68,6 @@
       "description": "Enhanced railway operations and passenger experience",
       "imageSrc": "https://i.ibb.co/VYFjbqn0/Screenshot-2025-03-26-at-5-19-32-PM.png",
       "url": "https://play.google.com/store/apps/details?id=com.beatleanalytics.passengeram"
-    },
-    {
-      "id": "5",
-      "title": "CEU Trainers",
-      "description": "A platform for professional training and certification programs",
-      "imageSrc": "https://i.ibb.co/0pWNwGBp/Screenshot-2025-03-26-at-5-20-12-PM.png",
-      "url": "https://ceu-trainers.com/"
     }
   ],
   "services": [
